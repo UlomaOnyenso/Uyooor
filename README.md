@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Python Programming Language
 - 💞️ I’m looking to collaborate on I4GxZuri
-- 📫 How to reach me through uloma.n.onyenso@gmail.com
+- 📫 I can be reached at uloma.n.onyenso@gmail.com
 
 <!---
 Uyooor/Uyooor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
